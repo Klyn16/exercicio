@@ -1,16 +1,16 @@
 Texto endereco;
-numero inteiro telefone;
-salario
-cpf
-preco
-temperatura
-casado
-nascimento
-vacinado
-preco_gasolina
-litros_gasolina
-preco_pao
-total_compras
-idade
-data_contrato
-nivel_escolaridade
+Numero inteiro telefone;
+Real salario;
+Número inteiro cpf;
+Real preço;
+Texto temperatura;
+Texto casado;
+Data nascimento;
+Texto vacinado;
+Real preco_gasolina;
+Número inteiro litros_gasolina;
+Real preco_pao;
+Real total_compras;
+Número inteiro idade;
+Data data_contrato;
+Texto nivel_escolaridade;
